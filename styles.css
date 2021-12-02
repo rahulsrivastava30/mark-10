@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.container {
+    padding: 1rem 1rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+.change-table, th ,td{
+    padding: 0.5rem;
+    margin-top: 2rem;
+    border: 1px solid;
+}
